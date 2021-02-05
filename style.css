@@ -1,7 +1,8 @@
 #first {
-  font-family:"Copperplate";
+  font-family: "Copperplate,serif";
   color:orange;
 }
-.second { font-family:"Times new roman";
-color:lawngreen; 
+
+.second { font-family: "Times new roman,Cursive";
+  color:lawngreen; 
 }
